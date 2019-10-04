@@ -14,11 +14,11 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/recept": [
+    "/recept/[id]": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/recept/[id]": [
+    "/recept/new": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
